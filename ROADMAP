@@ -1,0 +1,12 @@
+# Blueprint planing contains only steps on 1.x.x and x.1.x level and not minor changes.
+# Each changelog record uses same versioning naming and same test naming.
+
+--- 0.1.0:
+	Set architecture and project paths. Host system requirements.
+	Preparing partition, creating partiotion and filesystem on it.
+
+--- 0.2.0:
+    Setting $LFS variable. and mounting.
+
+--- 0.3.0:
+    Packages and patches.
