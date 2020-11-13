@@ -6,7 +6,5 @@
 	Preparing partition, creating partiotion and filesystem on it.
 
 --- 0.2.0:
-    Setting $LFS variable. and mounting.
-
---- 0.3.0:
-    Packages and patches.
+    In 2nd stage we are making directories on patiotion, creating lfs user and
+    setting up his enviroment.

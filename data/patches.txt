@@ -1,0 +1,23 @@
+• Bash Upstream Fixes Patch - 22 KB:
+Download: http://www.linuxfromscratch.org/patches/lfs/10.0/bash-5.0-upstream_fixes-1.patch
+MD5 sum: c1545da2ad7d78574b52c465ec077ed9
+
+• Bzip2 Documentation Patch - 1.6 KB:
+Download: http://www.linuxfromscratch.org/patches/lfs/10.0/bzip2-1.0.8-install_docs-1.patch
+MD5 sum: 6a5ac7e89b791aae556de0f745916f7f
+
+• Coreutils Internationalization Fixes Patch - 166 KB:
+Download: http://www.linuxfromscratch.org/patches/lfs/10.0/coreutils-8.32-i18n-1.patch
+MD5 sum: cd8ebed2a67fff2e231026df91af6776
+
+• Glibc FHS Patch - 2.8 KB:
+Download: http://www.linuxfromscratch.org/patches/lfs/10.0/glibc-2.32-fhs-1.patch
+MD5 sum: 9a5997c3452909b1769918c759eff8a2
+
+• Kbd Backspace/Delete Fix Patch - 12 KB:
+Download: http://www.linuxfromscratch.org/patches/lfs/10.0/kbd-2.3.0-backspace-1.patch
+MD5 sum: f75cca16a38da6caa7d52151f7136895
+
+• Sysvinit Consolidated Patch - 2.4 KB:
+Download: http://www.linuxfromscratch.org/patches/lfs/10.0/sysvinit-2.97-consolidated-1.patch
+MD5 sum: 4900322141d493e74020c9cf437b2cdc

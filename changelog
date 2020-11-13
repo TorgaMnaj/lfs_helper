@@ -18,3 +18,6 @@ Syntax for changelog:
 --- 0.1.0 - Basic setup, dependencies, partition.
     Made basic setup: bin, dependencies check, preparing partition.
 
+--- 0.2.0 - 1st_stage - opravy, 2nd_stage dodělávky.
+    1st_stage, dmade some tweaks, repairs and usability. 2nd_stage, finished. Added making directories on lfs partition, creating lfs user and setting up his enviroment.
+

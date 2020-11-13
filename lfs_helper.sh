@@ -18,5 +18,7 @@
 #TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 #SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+# 1st_age:
+bash ./bin/1st_age.sh
+bash ./bin/2nd_stage.sh
 exit 0
-
